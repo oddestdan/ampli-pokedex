@@ -1,5 +1,5 @@
 const FETCH_OFFSET = 0;
-const FETCH_LIMIT = 150;
+const FETCH_LIMIT = 151;
 const FETCH_ALL_URL = `https://pokeapi.co/api/v2/pokemon?limit=${FETCH_LIMIT}&offset=${FETCH_OFFSET}`;
 
 // const staticPokemonData = [
